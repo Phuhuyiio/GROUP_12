@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\server\\servertcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|solutionrelative:server\\servertcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
+              "RelativeDocumentMoniker": "Client\\Main.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
+              "RelativeToolTip": "Client\\Main.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAhwDQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:02:27.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
+              "RelativeDocumentMoniker": "Client\\Main.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs [Design]",
+              "RelativeToolTip": "Client\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:22:42.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServerTCPConnection.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Server\\ServerTCPConnection.cs",
+              "RelativeDocumentMoniker": "Server\\ServerTCPConnection.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Server\\ServerTCPConnection.cs",
+              "RelativeToolTip": "Server\\ServerTCPConnection.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:18:15.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignIn.cs",
+              "RelativeDocumentMoniker": "Client\\SignIn.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignIn.cs",
+              "RelativeToolTip": "Client\\SignIn.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwEcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:15:58.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignUp.cs",
+              "RelativeDocumentMoniker": "Client\\SignUp.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignUp.cs",
+              "RelativeToolTip": "Client\\SignUp.cs",
+              "ViewState": "AQIAAMgAAAAAAAAAAAAIwNIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T09:12:46.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
