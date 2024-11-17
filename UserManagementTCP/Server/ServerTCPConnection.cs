@@ -26,7 +26,7 @@ namespace Server
 
         public void Connect()
         {
-            IPClient = new IPEndPoint(IPAddress.Any, 9999);
+            IPClient = new IPEndPoint(IPAddress.Any,5000);
             server = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
             server.Bind(IPClient);

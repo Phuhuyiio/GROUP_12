@@ -13,8 +13,8 @@ namespace Client
 
         IPEndPoint IPServer;
         Socket client;
-        int port = 9999;
-        string ip = "127.0.0.1";
+        int port =5000;
+        string ip = "192.168.1.3";
         int byteSent;
         int byteRecieved;
 

@@ -1,3 +1,5 @@
+
+
 namespace Client
 {
     internal static class Program
@@ -11,8 +13,10 @@ namespace Client
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new SignIn());
+            Application.Run(new FindBook());
+
 
         }
+
     }
 }

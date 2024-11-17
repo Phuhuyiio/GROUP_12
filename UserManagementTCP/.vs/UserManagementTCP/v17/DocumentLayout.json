@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\",
+  "WorkspaceRootPath": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|d:\\nhom12\\group_12\\usermanagementtcp\\client\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\googlebooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\googlebooksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\findbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\bookdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\bookdetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\client\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C26C5B8C-84F2-4005-94D8-F09EFD9A0515}|Client\\Client.csproj|solutionrelative:client\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|c:\\users\\user\\source\\repos\\usermanagementtcp\\server\\servertcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|solutionrelative:server\\servertcpconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|D:\\NHOM12\\GROUP_12\\UserManagementTCP\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26C52B4D-B5C4-4E21-91EE-5504A6CAB689}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,19 +46,91 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FindBook.cs [Design]",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\FindBook.cs",
+              "RelativeDocumentMoniker": "Client\\FindBook.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\FindBook.cs [Design]",
+              "RelativeToolTip": "Client\\FindBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:34:32.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoogleBooksService.cs",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\GoogleBooksService.cs",
+              "RelativeDocumentMoniker": "Client\\GoogleBooksService.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\GoogleBooksService.cs",
+              "RelativeToolTip": "Client\\GoogleBooksService.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAawGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:00:38.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.cs",
+              "RelativeDocumentMoniker": "Client\\BookDetails.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.cs",
+              "RelativeToolTip": "Client\\BookDetails.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwH4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:44:39.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindBook.cs",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\FindBook.cs",
+              "RelativeDocumentMoniker": "Client\\FindBook.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\FindBook.cs",
+              "RelativeToolTip": "Client\\FindBook.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAvwJoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:01:18.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BookDetails.cs [Design]",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.cs",
+              "RelativeDocumentMoniker": "Client\\BookDetails.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.cs [Design]",
+              "RelativeToolTip": "Client\\BookDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:56:31.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetails.Designer.cs",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.Designer.cs",
+              "RelativeDocumentMoniker": "Client\\BookDetails.Designer.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\BookDetails.Designer.cs",
+              "RelativeToolTip": "Client\\BookDetails.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T18:56:19.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\Main.cs",
               "RelativeDocumentMoniker": "Client\\Main.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Client\\Main.cs",
               "RelativeToolTip": "Client\\Main.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAhwDQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -55,54 +139,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs",
-              "RelativeDocumentMoniker": "Client\\Main.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\Main.cs [Design]",
-              "RelativeToolTip": "Client\\Main.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "D:\\NHOM12\\GROUP_12\\UserManagementTCP\\Server\\Server.cs [Design]",
+              "RelativeToolTip": "Server\\Server.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:22:42.255Z",
+              "WhenOpened": "2024-11-12T08:14:42.821Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServerTCPConnection.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Server\\ServerTCPConnection.cs",
-              "RelativeDocumentMoniker": "Server\\ServerTCPConnection.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Server\\ServerTCPConnection.cs",
-              "RelativeToolTip": "Server\\ServerTCPConnection.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:18:15.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SignIn.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignIn.cs",
-              "RelativeDocumentMoniker": "Client\\SignIn.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignIn.cs",
-              "RelativeToolTip": "Client\\SignIn.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAYwEcAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:15:58.166Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignUp.cs",
-              "RelativeDocumentMoniker": "Client\\SignUp.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\UserManagementTCP\\Client\\SignUp.cs",
-              "RelativeToolTip": "Client\\SignUp.cs",
-              "ViewState": "AQIAAMgAAAAAAAAAAAAIwNIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T09:12:46.032Z",
-              "EditorCaption": ""
             }
           ]
         },
@@ -112,11 +157,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

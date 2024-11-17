@@ -68,8 +68,8 @@ namespace Client
                 {
                     user = tbUserName.Text.Trim();
                     MessageBox.Show("Đăng nhập thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    Main displayMain = new Main();
-                    displayMain.Show();
+                    FindBook displayFindBook = new FindBook();
+                    displayFindBook.Show();
                     this.Hide();
                 }
                 else
